@@ -1,0 +1,41 @@
+.container{
+    margin-bottom: 90px;
+}
+
+#navbarNav ul li {
+    padding-left: 30px;
+}
+
+.card-img-top{
+    width: 200px;
+}  
+
+.card{
+    border-style: none;
+    align-items: center;
+    text-align: center;
+}
+
+.seeall{
+    color: orange;
+}
+
+.smartphoneseeall{
+    padding-bottom: 45px;
+}
+
+.row .col-md-3 {
+    border: 5px solid black;
+}
+ .bag{
+    /* text-align: center; */
+    padding-left: 47px;
+ }
+
+ .bagg{
+   margin: auto;
+   /* padding-left: 25px;  */
+   padding: 50px;
+   width: 180px;
+   height: 190px;
+ }
